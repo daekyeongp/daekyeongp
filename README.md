@@ -15,7 +15,8 @@
 <h3 align="center">👋 Follow Me 👋</h3>
 <p align="center">
   <a href="https://velog.io/@daekyeong" target="_blank"><img src="https://img.shields.io/badge/Tech%20Blog-11B48A?style=flat-square&logo=Vimeo&logoColor=white&link=https://velog.io/@daekyeong"/></a>&nbsp
-  <a href="mailto:daekyeongp96@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=daekyeongp96@gmail.com"/></a>
+  <a href="mailto:daekyeongp96@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=daekyeongp96@gmail.com"/></a>&nbsp
+  <a href="https://www.linkedin.com/in/daekyeong" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=LinkedIn&logoColor=white&link=https://www.linkedin.com/in/daekyeong"/></a>&nbsp
 </p>
 
 <br/>
