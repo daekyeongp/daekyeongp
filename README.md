@@ -14,7 +14,6 @@
 
 <h3 align="center">👋 Follow Me 👋</h3>
 <p align="center">
-  <a href="https://velog.io/@daekyeong" target="_blank"><img src="https://img.shields.io/badge/Tech%20Blog-11B48A?style=flat-square&logo=Vimeo&logoColor=white&link=https://velog.io/@daekyeong"/></a>&nbsp
   <a href="mailto:daekyeongp96@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=daekyeongp96@gmail.com"/></a>&nbsp
   <a href="https://www.linkedin.com/in/daekyeong" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=LinkedIn&logoColor=white&link=https://www.linkedin.com/in/daekyeong"/></a>&nbsp
 </p>
@@ -50,3 +49,26 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+### Publications
+
+<table>
+    <td colspan=1 style="text-align: left;"><b><a href="http://sejong.dcollection.net/public_resource/pdf/200000589075_20220502214205.pdf">◾ [M.S Dissertation] A Study on Re-learning and Overfitting Problem Optimization of Intrusion Detection Model Using Siamese Network.</a></b></td>
+	<td><b>2022.02</b></td>
+	<tr>
+	    <td colspan=1 style="text-align: left;"><b><a href="http://koreascience.or.kr/article/JAKO202123162103726.page">◾ Park, DaeKyeong, et al. ”Host-Based Intrusion Detection Model Using Few-Shot Learning.” KIPS Transactions on Software and Data Engineering 10.7 (2021): 271-278.</a></b></td>
+        <td>2021.07</td>
+	</tr>
+    <td colspan=1 style="text-align: left;"><b><a href="https://ieeexplore.ieee.org/abstract/document/9436776">◾ Park, Daekyeong, et al. ”Host-Based Intrusion Detection Model Using Siamese Network.” IEEE Access 9 (2021): 76614-76623.</a></b></td>
+	<td><b>2021.05</b></td>
+	<tr>
+	    <td colspan=1 style="text-align: left;"><b><a href="http://koreascience.or.kr/article/JAKO202111065911197.page">◾ Park, DaeKyeong, et al. ”A Comparative Study of Machine Learning Algorithms Using LID-DS DataSet.” KIPS Transactions on Software and Data Engineering 10.3 (2021): 91-98.</a></b></td>
+        <td>2021.03</td>
+	</tr>
+    <td colspan=1 style="text-align: left;"><b><a href="http://koreascience.or.kr/article/CFKO202025036268325.page">◾ Park, DaeKyeong, Dongkyoo Shin, and Dongil Shin. ”Host-based intrusion detection research using CNN and Kibana.” Proceedings of the Korea Information Processing Society Conference. Korea Information Processing Society, 2020.</a></b></td>
+	<td><b>2020.11</b></td>
+	<tr>
+	    <td colspan=1 style="text-align: left;"><b><a href="https://www.koreascience.or.kr/article/CFKO202024664105237.page">◾ Park, DaeKyeong, Dongkyoo Shin, and Dongil Shin. ”A Host-based Intrusion Detection Data Analysis Comparison.” Proceedings of the Korea Information Processing Society Conference. Korea Information Processing Society, 2020.</a></b></td>
+        <td>2020.05</td>
+	</tr>
+</table>
